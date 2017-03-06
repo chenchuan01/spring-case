@@ -41,6 +41,8 @@
 		</pluginRepository>
 	</pluginRepositories>
 	<modules>
+		
+		<module>restful</module>
 		<module>restful-actuator</module>
 		<module>rabbit-mq</module>
 		<module>ldap</module>
